@@ -38,6 +38,20 @@
 # Into Todo directory, run npx create-react-app client
 ![image](https://user-images.githubusercontent.com/89944781/197641801-72304e33-713f-4d44-8d64-3ea5c1d01961.png)
 
+# Install concurrently
+npm install concurrently --save-dev
+![image](https://user-images.githubusercontent.com/89944781/197642412-5fdf355d-c551-4145-be5b-0008f65cce7c.png)
+
+# Install nodemon
+npm install nodemon --save -dev
+![image](https://user-images.githubusercontent.com/89944781/197642606-1fadaa1b-671a-49f9-b004-67dfd245ad7e.png)
+
+# Updating package.json file in Todo directory and client directory
+![image](https://user-images.githubusercontent.com/89944781/197644918-71cdc847-b9e5-4114-b3f3-4bcd7f82510c.png)
+
+# run : npm run dev
+![image](https://user-images.githubusercontent.com/89944781/197645028-aa25fdba-c1ec-4941-b7d9-d2c5e70e3863.png)
+
 
 
 
