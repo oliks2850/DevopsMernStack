@@ -23,3 +23,15 @@
 # Install mongoose 
 ![image](https://user-images.githubusercontent.com/89944781/194785030-ee69002d-de33-46c6-bef3-cbd5676f8b1a.png)
 
+# Showing work on project folders
+![image](https://user-images.githubusercontent.com/89944781/197639865-fc150797-a77a-4a0a-8e58-6830442c53a0.png)
+
+# Showing connections to mongoDB database
+![image](https://user-images.githubusercontent.com/89944781/197640009-12484b2e-967d-47fe-911a-5228bcf0d16e.png)
+
+# Showing post request to end point 
+![image](https://user-images.githubusercontent.com/89944781/197640514-5fc8f331-0b90-402d-8bbe-5b49e2d13271.png)
+
+# Showing get request from endpoint
+![image](https://user-images.githubusercontent.com/89944781/197640762-e4f8bf84-3810-46b8-8908-7e216433e61d.png)
+
