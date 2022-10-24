@@ -52,6 +52,16 @@ npm install nodemon --save -dev
 # run : npm run dev
 ![image](https://user-images.githubusercontent.com/89944781/197645028-aa25fdba-c1ec-4941-b7d9-d2c5e70e3863.png)
 
+# Navigate to components directory and run
+touch Input.js ListTodo.js Todo.js
+![image](https://user-images.githubusercontent.com/89944781/197645908-a2095b92-30d1-40e9-909c-6f50e3ba5c53.png)
+
+# Install the axios package
+npm install axios
+![image](https://user-images.githubusercontent.com/89944781/197646584-a0ffc05a-7156-40c9-9ca7-b7346462d252.png)
+
+
+
 
 
 
