@@ -59,6 +59,24 @@ touch Input.js ListTodo.js Todo.js
 # Install the axios package
 npm install axios
 ![image](https://user-images.githubusercontent.com/89944781/197646584-a0ffc05a-7156-40c9-9ca7-b7346462d252.png)
+# Frontend creation
+cd src/components
+vim ListTodo.js
+![image](https://user-images.githubusercontent.com/89944781/198946631-9778c9c6-83c3-4019-ad39-006d7ae5a824.png)
+vim Todo.js
+![image](https://user-images.githubusercontent.com/89944781/198947635-848a29bd-2a04-4771-b4ae-352aca6c57bf.png)
+
+cd ..
+vim App.js
+vim App.css
+vim index.css
+cd../..
+![image](https://user-images.githubusercontent.com/89944781/198949252-833060b1-e87e-43f2-9dde-e9ae638b71e2.png)
+
+npm run dev
+![image](https://user-images.githubusercontent.com/89944781/198949877-96c3a452-8109-4bfb-a24d-ccd706e85468.png)
+
+
 
 
 
